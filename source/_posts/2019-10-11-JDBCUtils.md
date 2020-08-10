@@ -1,5 +1,5 @@
 ---
-title: 利用java针对Mysql进行封装成（jdbc）工具类Dbutil完整实现（增删改查注册查重，适合初学者，附源码）
+title: 【JAVA】利用java针对Mysql进行封装成（jdbc）工具类Dbutil完整实现（增删改查注册查重，适合初学者，附源码）
 date: 2019-10-11 10:29:05
 tags:
   - Mysql
